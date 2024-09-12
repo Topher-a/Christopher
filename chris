@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{
+int age =30;
+
+//char 
+char name[] =chris;
+printf("my name is %c,my age is %d",name,age);
+
+return 0;
+}
+
+
+
+

@@ -1,0 +1,28 @@
+#include <stdio.h>
+int main()
+{
+int months =8;
+switch (months)
+{
+case 1:
+printf("January");
+break;
+case 2:
+printf("February");
+break;
+case 3:
+printf("March");
+break;
+case 4:
+printf("April");
+break;
+case 5:
+printf("May");
+break;
+default:
+printf("Looking forward to the holidays\n");
+}
+return 0;
+}
+
+

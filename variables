@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main()
+{
+int age = 25;
+float height = 5.9;
+char grade = 'A';
+double pi = 3.14159;
+
+printf("My age is %d\n","My height is %f\n",My grade is %c\n","The pi is %.5lf\n",age,height,grade,pi);
+
+return 0;
+}
